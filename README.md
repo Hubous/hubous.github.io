@@ -5,7 +5,7 @@ Front-end
   - Site - Vinicius
   - ADM - Vinicius
 
-Controle de Sessão (usuários) - Vinicius
+Controle de Sessão (usuários) - Nicolas
 
 Back-end
   - Site (quiz) - Gabriel
